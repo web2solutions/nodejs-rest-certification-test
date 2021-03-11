@@ -1,4 +1,4 @@
-# HackerRank - Node.js (Intermediate) Skills Certification Test
+# Node.js REST / Sequelize / SQLite Skills Certification Test
 
 
 ## Products API Medium
